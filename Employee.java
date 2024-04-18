@@ -36,3 +36,4 @@ public abstract class Employee
         return "Employee id = " + ID + ", name = " + name + ", salary = " + salary;
     }
 }
+// ur a class 
